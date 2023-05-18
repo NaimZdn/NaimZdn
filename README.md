@@ -8,11 +8,10 @@
 
 <img align="right" alt="coding" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaimZdn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 
- - 👀 I am very interested in UI/UX design and mobile app development
+ - 👀 I am very interested by UI/UX design and mobile app development
  - 🍏 I'm learning iOS mob app at Epitech 
  - 🤝 I'm looking for an apprenticeship contract in a company from September 2023
  - ✉️ If you want to contact me, here is my email: naim.zidouni27@gmail.com
- - 👤 My resume : [Just here](https://github.com/NaimZdn/NaimZdn/blob/main/My_Resume.pdf)
 
 #### Dev Technologies
 
