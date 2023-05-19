@@ -15,9 +15,14 @@
 
 #### Dev Technologies
 
-[![Swift Badge](https://img.shields.io/badge/-Swift-f05138?style=flat&labelColor=f05138&logo=swift&logoColor=white)](#) [![iOS Badge](https://img.shields.io/badge/-iOS-000000?style=flat&labelColor=000000&logo=apple&logoColor=white)](#) 
+[![Swift Badge](https://img.shields.io/badge/-Swift-f05138?style=flat&labelColor=f05138&logo=swift&logoColor=white)](#) 
+[![iOS Badge](https://img.shields.io/badge/-iOS-000000?style=flat&labelColor=000000&logo=apple&logoColor=white)](#) 
 
 #### Design Technologies
 
 [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat&labelColor=F24E1E&logo=figma&logoColor=white)](#) 
+[![Illustrator Badge](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&labelColor=FF9A00&logo=adobe%20illustrator&logoColor=white)](#) 
+[![AfterEffects Badge](https://img.shields.io/badge/-Adobe%20AfterEffects-9999FF?style=flat&labelColor=9999FF&logo=adobe%20after%20effects&logoColor=white)](#) 
+
+
 
