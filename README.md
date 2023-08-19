@@ -10,7 +10,6 @@
 
  - 👀 I am very interested by UI/UX design and mobile app development
  - 🍏 I'm learning iOS mob app at Epitech 
- - 🤝 I'm looking for an apprenticeship contract in a company from September 2023
  - ✉️ If you want to contact me, here is my email: naim.zidouni27@gmail.com
 
 #### Dev Technologies
