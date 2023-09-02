@@ -23,5 +23,7 @@
 [![Illustrator Badge](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&labelColor=FF9A00&logo=adobe%20illustrator&logoColor=white)](#) 
 [![AfterEffects Badge](https://img.shields.io/badge/-Adobe%20AfterEffects-9999FF?style=flat&labelColor=9999FF&logo=adobe%20after%20effects&logoColor=white)](#) 
 
+#### Programmation Time
 
+![Naim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@NaimZdn\&layout=compact)
 
